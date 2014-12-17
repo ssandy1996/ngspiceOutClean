@@ -19,7 +19,7 @@
  * 		to import ot programs such as scilab and analyse.
  * ----------------------------------------------------------------------
  * Usage:
- * 		Will be updated soon.
+ * 		Check the readme file that came with this file.
  * ----------------------------------------------------------------------
  * Author:
  * 		S Sandeep Kumar
